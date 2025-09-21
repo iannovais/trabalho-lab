@@ -1,0 +1,323 @@
+[
+  {
+    "id": "fa6d69df-7075-48e6-a6c2-254cc72c5846",
+    "userId": "4857af07-9d92-4bcc-98a8-e2360c7d267c",
+    "name": "Lista Atualizada",
+    "description": "Nova descrição",
+    "status": "active",
+    "items": [],
+    "summary": {
+      "totalItems": 0,
+      "purchasedItems": 0,
+      "estimatedTotal": 0
+    },
+    "createdAt": "2025-09-17T18:29:57.765Z",
+    "updatedAt": "2025-09-17T18:31:06.905Z"
+  },
+  {
+    "id": "c966ae24-2d3b-4803-b8b7-2ca81030ac5f",
+    "userId": "85659f89-715f-4421-bdff-c2a286639bc9",
+    "name": "Lista do Mês",
+    "description": "Compras de setembro",
+    "status": "active",
+    "items": [
+      {
+        "itemId": "599cc86b-4247-4cbb-9aee-859e71b84745",
+        "itemName": "Arroz",
+        "quantity": 2,
+        "unit": "kg",
+        "estimatedPrice": 5.99,
+        "purchased": false,
+        "notes": "Comprar versão econômica",
+        "addedAt": "2025-09-20T16:11:23.663Z",
+        "updatedAt": "2025-09-20T16:11:23.663Z"
+      }
+    ],
+    "summary": {
+      "totalItems": 2,
+      "purchasedItems": 0,
+      "estimatedTotal": 11.98
+    },
+    "createdAt": "2025-09-20T16:11:15.022Z",
+    "updatedAt": "2025-09-20T16:11:23.663Z"
+  },
+  {
+    "id": "2d1a61fb-8e9e-42c8-af0e-68770c17acc2",
+    "userId": "e690489e-3c8c-414a-9d3e-b97e1806e069",
+    "name": "Minha Lista de Compras",
+    "description": "Lista de compras de teste",
+    "status": "active",
+    "items": [
+      {
+        "itemId": "39da73ea-01f8-4aae-8363-c63b6da67021",
+        "itemName": "Açúcar",
+        "quantity": 3,
+        "unit": "kg",
+        "estimatedPrice": 4.29,
+        "purchased": false,
+        "notes": "Item de teste Açúcar",
+        "addedAt": "2025-09-20T20:26:07.682Z",
+        "updatedAt": "2025-09-20T20:26:07.682Z"
+      },
+      {
+        "itemId": "8e555c84-e154-49de-8885-75cd2c0d5ae9",
+        "itemName": "Biscoito",
+        "quantity": 2,
+        "unit": "un",
+        "estimatedPrice": 3.99,
+        "purchased": false,
+        "notes": "Item de teste Biscoito",
+        "addedAt": "2025-09-20T20:26:07.995Z",
+        "updatedAt": "2025-09-20T20:26:07.995Z"
+      }
+    ],
+    "summary": {
+      "totalItems": 5,
+      "purchasedItems": 0,
+      "estimatedTotal": 20.85
+    },
+    "createdAt": "2025-09-20T20:26:06.328Z",
+    "updatedAt": "2025-09-20T22:13:05.416Z"
+  },
+  {
+    "id": "70d6474a-4f7d-4d95-a78f-a5d28ff2ebdc",
+    "userId": "e690489e-3c8c-414a-9d3e-b97e1806e069",
+    "name": "Minha Lista de Compras",
+    "description": "Lista de compras de teste",
+    "status": "active",
+    "items": [
+      {
+        "itemId": "599cc86b-4247-4cbb-9aee-859e71b84745",
+        "itemName": "Arroz",
+        "quantity": 3,
+        "unit": "kg",
+        "estimatedPrice": 5.99,
+        "purchased": false,
+        "notes": "Item de teste Arroz",
+        "addedAt": "2025-09-20T23:23:17.351Z",
+        "updatedAt": "2025-09-20T23:23:17.351Z"
+      },
+      {
+        "itemId": "39da73ea-01f8-4aae-8363-c63b6da67021",
+        "itemName": "Açúcar",
+        "quantity": 3,
+        "unit": "kg",
+        "estimatedPrice": 4.29,
+        "purchased": false,
+        "notes": "Item de teste Açúcar",
+        "addedAt": "2025-09-20T23:23:17.669Z",
+        "updatedAt": "2025-09-20T23:23:17.669Z"
+      },
+      {
+        "itemId": "8e555c84-e154-49de-8885-75cd2c0d5ae9",
+        "itemName": "Biscoito",
+        "quantity": 1,
+        "unit": "un",
+        "estimatedPrice": 3.99,
+        "purchased": false,
+        "notes": "Item de teste Biscoito",
+        "addedAt": "2025-09-20T23:23:17.984Z",
+        "updatedAt": "2025-09-20T23:23:17.984Z"
+      }
+    ],
+    "summary": {
+      "totalItems": 7,
+      "purchasedItems": 0,
+      "estimatedTotal": 34.83
+    },
+    "createdAt": "2025-09-20T23:23:16.308Z",
+    "updatedAt": "2025-09-20T23:23:17.984Z"
+  },
+  {
+    "id": "5ac4b668-c4dc-4f50-8282-6889791bf127",
+    "userId": "e690489e-3c8c-414a-9d3e-b97e1806e069",
+    "name": "Minha Lista de Compras",
+    "description": "Lista de compras de teste",
+    "status": "active",
+    "items": [
+      {
+        "itemId": "599cc86b-4247-4cbb-9aee-859e71b84745",
+        "itemName": "Arroz",
+        "quantity": 3,
+        "unit": "kg",
+        "estimatedPrice": 5.99,
+        "purchased": false,
+        "notes": "Item de teste Arroz",
+        "addedAt": "2025-09-20T23:28:19.935Z",
+        "updatedAt": "2025-09-20T23:28:19.935Z"
+      },
+      {
+        "itemId": "39da73ea-01f8-4aae-8363-c63b6da67021",
+        "itemName": "Açúcar",
+        "quantity": 3,
+        "unit": "kg",
+        "estimatedPrice": 4.29,
+        "purchased": false,
+        "notes": "Item de teste Açúcar",
+        "addedAt": "2025-09-20T23:28:20.254Z",
+        "updatedAt": "2025-09-20T23:28:20.254Z"
+      },
+      {
+        "itemId": "8e555c84-e154-49de-8885-75cd2c0d5ae9",
+        "itemName": "Biscoito",
+        "quantity": 1,
+        "unit": "un",
+        "estimatedPrice": 3.99,
+        "purchased": false,
+        "notes": "Item de teste Biscoito",
+        "addedAt": "2025-09-20T23:28:20.570Z",
+        "updatedAt": "2025-09-20T23:28:20.570Z"
+      }
+    ],
+    "summary": {
+      "totalItems": 7,
+      "purchasedItems": 0,
+      "estimatedTotal": 34.83
+    },
+    "createdAt": "2025-09-20T23:28:18.914Z",
+    "updatedAt": "2025-09-20T23:28:20.571Z"
+  },
+  {
+    "id": "175118c2-f553-4adf-bd94-5bfc501d2e06",
+    "userId": "31f69140-6e77-4615-8a2d-f14410362fe3",
+    "name": "Minha Lista de Compras Demo",
+    "description": "Lista criada durante demonstração",
+    "status": "active",
+    "items": [
+      {
+        "itemId": "599cc86b-4247-4cbb-9aee-859e71b84745",
+        "itemName": "Arroz",
+        "quantity": 2,
+        "unit": "kg",
+        "estimatedPrice": 5.99,
+        "purchased": false,
+        "notes": "Item adicionado na demo - Arroz",
+        "addedAt": "2025-09-20T23:43:27.964Z",
+        "updatedAt": "2025-09-20T23:43:27.964Z"
+      },
+      {
+        "itemId": "39da73ea-01f8-4aae-8363-c63b6da67021",
+        "itemName": "Açúcar",
+        "quantity": 2,
+        "unit": "kg",
+        "estimatedPrice": 4.29,
+        "purchased": false,
+        "notes": "Item adicionado na demo - Açúcar",
+        "addedAt": "2025-09-20T23:43:28.278Z",
+        "updatedAt": "2025-09-20T23:43:28.278Z"
+      },
+      {
+        "itemId": "8e555c84-e154-49de-8885-75cd2c0d5ae9",
+        "itemName": "Biscoito",
+        "quantity": 2,
+        "unit": "un",
+        "estimatedPrice": 3.99,
+        "purchased": false,
+        "notes": "Item adicionado na demo - Biscoito",
+        "addedAt": "2025-09-20T23:43:28.596Z",
+        "updatedAt": "2025-09-20T23:43:28.596Z"
+      }
+    ],
+    "summary": {
+      "totalItems": 6,
+      "purchasedItems": 0,
+      "estimatedTotal": 28.540000000000003
+    },
+    "createdAt": "2025-09-20T23:43:26.949Z",
+    "updatedAt": "2025-09-20T23:43:28.597Z"
+  },
+  {
+    "id": "0d7124a7-d259-4a71-a50a-b3887108b5aa",
+    "userId": "85659f89-715f-4421-bdff-c2a286639bc9",
+    "name": "Minha Lista de Compras",
+    "description": "Lista de compras semanal",
+    "status": "active",
+    "items": [],
+    "summary": {
+      "totalItems": 0,
+      "purchasedItems": 0,
+      "estimatedTotal": 0
+    },
+    "createdAt": "2025-09-21T00:05:32.928Z",
+    "updatedAt": "2025-09-21T00:05:32.929Z"
+  },
+  {
+    "id": "87d7933e-08dc-4978-a75e-2e2ef7c9bc54",
+    "userId": "9fd13032-f0cf-4b17-b617-8930afcce69d",
+    "name": "Minha Lista de Compras nova",
+    "description": "Lista de compras semanal",
+    "status": "active",
+    "items": [],
+    "summary": {
+      "totalItems": 0,
+      "purchasedItems": 0,
+      "estimatedTotal": 0
+    },
+    "createdAt": "2025-09-21T01:36:38.743Z",
+    "updatedAt": "2025-09-21T01:36:38.743Z"
+  },
+  {
+    "id": "8b3aa790-fef5-46ce-b48d-c7dd3f63ac54",
+    "userId": "2a6a6fe4-0a73-4619-a2a7-0d73194b3e4b",
+    "name": "Minha Lista de Compras Demo",
+    "description": "Lista criada durante demonstração",
+    "status": "active",
+    "items": [],
+    "summary": {
+      "totalItems": 0,
+      "purchasedItems": 0,
+      "estimatedTotal": 0
+    },
+    "createdAt": "2025-09-21T01:42:06.719Z",
+    "updatedAt": "2025-09-21T01:42:06.719Z"
+  },
+  {
+    "id": "7bd5c0f1-edee-4681-a83f-6db45ae7879b",
+    "userId": "ce871f46-05c3-4ec5-a215-5723ec51b695",
+    "name": "Minha Lista de Compras Demo",
+    "description": "Lista criada durante demonstração",
+    "status": "active",
+    "items": [
+      {
+        "itemId": "599cc86b-4247-4cbb-9aee-859e71b84745",
+        "itemName": "Arroz",
+        "quantity": 1,
+        "unit": "kg",
+        "estimatedPrice": 5.99,
+        "purchased": false,
+        "notes": "Item adicionado na demo - Arroz",
+        "addedAt": "2025-09-21T01:42:45.463Z",
+        "updatedAt": "2025-09-21T01:42:45.463Z"
+      },
+      {
+        "itemId": "39da73ea-01f8-4aae-8363-c63b6da67021",
+        "itemName": "Açúcar",
+        "quantity": 3,
+        "unit": "kg",
+        "estimatedPrice": 4.29,
+        "purchased": false,
+        "notes": "Item adicionado na demo - Açúcar",
+        "addedAt": "2025-09-21T01:42:45.776Z",
+        "updatedAt": "2025-09-21T01:42:45.776Z"
+      },
+      {
+        "itemId": "8e555c84-e154-49de-8885-75cd2c0d5ae9",
+        "itemName": "Biscoito",
+        "quantity": 2,
+        "unit": "un",
+        "estimatedPrice": 3.99,
+        "purchased": false,
+        "notes": "Item adicionado na demo - Biscoito",
+        "addedAt": "2025-09-21T01:42:46.090Z",
+        "updatedAt": "2025-09-21T01:42:46.090Z"
+      }
+    ],
+    "summary": {
+      "totalItems": 6,
+      "purchasedItems": 0,
+      "estimatedTotal": 26.84
+    },
+    "createdAt": "2025-09-21T01:42:44.447Z",
+    "updatedAt": "2025-09-21T01:42:46.090Z"
+  }
+]

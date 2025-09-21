@@ -1,0 +1,178 @@
+[
+  {
+    "id": "e690489e-3c8c-414a-9d3e-b97e1806e069",
+    "email": "admin@compras.com",
+    "username": "admin",
+    "password": "$2a$12$8z34VbKEGgeFaJicANa8AOFZIEHKcIdhhTt4KSJtWxhjscClpHndu",
+    "firstName": "Nome Atualizado",
+    "lastName": "Sobrenome Atualizado",
+    "preferences": {
+      "defaultStore": "Supermercado Novo",
+      "currency": "BRL"
+    },
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2025-09-16T01:20:49.448Z",
+    "updatedAt": "2025-09-20T23:28:15.863Z"
+  },
+  {
+    "id": "4857af07-9d92-4bcc-98a8-e2360c7d267c",
+    "email": "iannovoemail@gmail.com",
+    "username": "iannovais",
+    "password": "$2a$12$FKlsXEkgYqQ2LUT68sux/e8G5Q2CQgVwM6Jy/u3pdpaZxDo6qix3G",
+    "firstName": "Ian Atualizado",
+    "lastName": "Novais",
+    "preferences": {
+      "defaultStore": "Mercado Livre",
+      "currency": "USD"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-17T16:11:37.779Z",
+    "updatedAt": "2025-09-17T18:03:20.634Z"
+  },
+  {
+    "id": "85659f89-715f-4421-bdff-c2a286639bc9",
+    "email": "teste@compras.com",
+    "username": "testeuser",
+    "password": "$2a$12$zYFYA9sxafD5tzgtW8ITyOtRfE/EdZJKxPvYxYngUSqdeGBWGiEvm",
+    "firstName": "João",
+    "lastName": "Silva",
+    "preferences": {
+      "defaultStore": "Mercado Central",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-17T16:15:39.506Z",
+    "updatedAt": "2025-09-20T23:37:52.172Z"
+  },
+  {
+    "id": "5aee44b0-01a9-4484-94a2-9c9d3b7b86cb",
+    "email": "testuser@example.com",
+    "username": "testuser",
+    "password": "$2a$12$RAvU1HG4jSNT2zzZoR4V5eq6q3YuI8axwkNYHQAo.J2R7a8i9Ieky",
+    "firstName": "Test",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Central",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-20T20:36:35.734Z",
+    "updatedAt": "2025-09-20T20:36:55.847Z"
+  },
+  {
+    "id": "04ecfffa-229f-42c0-9cc3-8c9a8defdb8a",
+    "email": "testusaer@example.com",
+    "username": "teastuser",
+    "password": "$2a$12$Xa0PagWxp1vWUrzmBfX10.q2Z2Kq4ytf/V2s8iVeFOJT91aD5IPVK",
+    "firstName": "Test",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Central",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-20T22:06:33.148Z",
+    "updatedAt": "2025-09-20T22:06:33.149Z"
+  },
+  {
+    "id": "626c804c-f30b-4637-9164-b092006ec5c4",
+    "email": "demo_user_1758411236316@example.com",
+    "username": "user_1758411236316",
+    "password": "$2a$12$b4/NoEaZAR7QmWLQS8UmDeoYTLROQSaBemu.TfCNN4qSqwyKNlVoa",
+    "firstName": "Demo",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Demo",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-20T23:33:56.592Z",
+    "updatedAt": "2025-09-20T23:33:56.593Z"
+  },
+  {
+    "id": "f8b1361b-f1bf-4de0-bd6e-e19e61a1ca82",
+    "email": "demo_user_1758411444113@example.com",
+    "username": "user_1758411444113",
+    "password": "$2a$12$ijBIvqdd1WzruelzV2pUI.klnUXeQM1A65z5x21/4PUDyR72rAjTm",
+    "firstName": "Demo",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Demo",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-20T23:37:24.390Z",
+    "updatedAt": "2025-09-20T23:41:31.416Z"
+  },
+  {
+    "id": "31f69140-6e77-4615-8a2d-f14410362fe3",
+    "email": "demo_user_1758411802349@example.com",
+    "username": "user_1758411802349",
+    "password": "$2a$12$gVFk9tyM1iBBfY3iS3TS2OXOFLfmEyHVqUwfvLIiPzMEgaY/PeD0.",
+    "firstName": "Demo",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Demo",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-20T23:43:22.625Z",
+    "updatedAt": "2025-09-20T23:43:23.911Z"
+  },
+  {
+    "id": "9fd13032-f0cf-4b17-b617-8930afcce69d",
+    "email": "testusaer1@example.com",
+    "username": "teastuser1",
+    "password": "$2a$12$5xkBeh/8XDKkko0FSqInGuVZfI7EU.FrdrDWJ9XksS1F9kUnvYNom",
+    "firstName": "Nome Atualizado",
+    "lastName": "Sobrenome Atualizado",
+    "preferences": {
+      "defaultStore": "Supermercado Novo",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-21T01:26:14.322Z",
+    "updatedAt": "2025-09-21T01:27:52.733Z"
+  },
+  {
+    "id": "2a6a6fe4-0a73-4619-a2a7-0d73194b3e4b",
+    "email": "demo_user_1758418922125@example.com",
+    "username": "user_1758418922125",
+    "password": "$2a$12$LEob1yr14ZHNdYo3HjsHOuGAVQndt2vc1huLrC9PcfqSpnvNOeKNu",
+    "firstName": "Demo",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Demo",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-21T01:42:02.403Z",
+    "updatedAt": "2025-09-21T01:42:03.693Z"
+  },
+  {
+    "id": "ce871f46-05c3-4ec5-a215-5723ec51b695",
+    "email": "demo_user_1758418959843@example.com",
+    "username": "user_1758418959843",
+    "password": "$2a$12$xFFYJmtLiJr1wittJgJ1Qe/PqV9Tp/Z6qKPZ7ula6Q9DsaqJJZDrq",
+    "firstName": "Demo",
+    "lastName": "User",
+    "preferences": {
+      "defaultStore": "Mercado Demo",
+      "currency": "BRL"
+    },
+    "role": "user",
+    "status": "active",
+    "createdAt": "2025-09-21T01:42:40.117Z",
+    "updatedAt": "2025-09-21T01:42:41.397Z"
+  }
+]
