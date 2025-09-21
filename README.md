@@ -40,10 +40,10 @@ cd services/item-service && npm start
 cd services/list-service && npm start
 
 # Terminal 4 - API Gateway (3000)
-cd services/api-gateway && npm start
+cd api-gateway && npm start
 
 # 3. Execute a demonstração
-node cliente-demo.js
+npm run demo
 ```
 
 ### Verificação da Instalação
